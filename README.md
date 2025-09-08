@@ -50,4 +50,4 @@ O projeto utiliza **arquitetura serverless na AWS** para processar e visualizar 
 ## Autor
 
 **Erick Fanka**  
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
+[LinkedIn](https://www.linkedin.com/in/erick-fanka/)
