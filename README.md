@@ -7,14 +7,6 @@ O projeto utiliza **arquitetura serverless na AWS** para processar e visualizar 
 
 **Observação:** Este trabalho foi desenvolvido em **escala reduzida**, pois se trata de um projeto escolar realizado em laboratório. Devido a limitações do ambiente, a coleta de dados foi feita **manualmente** e algumas funcionalidades, como o uso do **CloudFront**, não puderam ser implementadas.
 
-## Estrutura do Repositório
-ClimaConecta/
-│
-├── lambda/ # Função Lambda, gatilho e explicações das layers
-├── s3/ # Estrutura de pastas simulando o bucket S3 (dados e gráficos)
-├── site/ # Página web estática (index.html e arquivos HTML)
-├── README.md # Este arquivo
-
 ## Funcionalidades
 
 - Coleta manual de dados do **INPE** (PRODES e DETER), adaptada à escala do laboratório.  
