@@ -1,8 +1,39 @@
-# 🔒 Política de Segurança
+# 🔒 Política de Segurança-ClimaConecta
 
-Este documento detalha as políticas de segurança e as melhores práticas adotadas nos projetos de **Cloud Computing**.  
+## Relato de Vulnerabilidades
 
-Nosso compromisso é com a construção de **infraestruturas seguras, robustas e eficientes**.
+O repositório **ClimaConecta** é um projeto acadêmico e de estudo que não contém dados sensíveis de usuários ou sistemas críticos.  
+Se você identificar alguma vulnerabilidade, bug de segurança ou risco relacionado ao código, por favor siga as instruções abaixo.
+
+### Como reportar
+
+1. Abra uma **issue** no GitHub com o título **"[SECURITY] Descrição do problema"**.
+2. Inclua:
+   - Descrição detalhada do problema ou vulnerabilidade
+   - Passos para reproduzir o problema
+   - Sugestão de correção (se possível)
+3. Se o problema for crítico e você não quiser deixar público, entre em contato diretamente comigo através do e-mail: **erickfanka@gmail.com**.
+
+### Resposta
+
+- Todos os relatórios serão revisados assim que possível.
+- Problemas confirmados serão corrigidos e documentados.
+- Sugestões de melhorias ou bugs não críticos podem ser discutidos via **issues** no GitHub.
+
+---
+
+## Boas práticas de segurança
+
+Mesmo sendo um projeto educacional, recomenda-se:  
+
+- Evitar copiar e colar código sem entender sua lógica.  
+- Não armazenar dados pessoais ou sensíveis nos arquivos de teste.  
+- Testar o código em ambientes isolados (ex.: **virtualenv** ou **Docker**).  
+
+---
+
+Agradecemos por ajudar a manter o **ClimaConecta** seguro e confiável para todos os usuários!
+de **infraestruturas seguras, robustas e eficientes**.
 
 ---
 
