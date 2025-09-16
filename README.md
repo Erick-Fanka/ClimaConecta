@@ -47,7 +47,12 @@ O projeto utiliza **arquitetura serverless na AWS** para processar e visualizar 
 - **Python** (Pandas, Matplotlib)  
 - **HTML/CSS** para dashboards estáticos  
 
-## Autor
+---
+
+## 👨‍💻 Autor
 
 **Erick Fanka**  
-[LinkedIn](https://www.linkedin.com/in/erick-fanka/)
+Ex-Competidor WorldSkills | Cloud Computing | Redes | Python | AWS 
+🔗 [LinkedIn](https://www.linkedin.com/in/erick-fanka)
+
+---
