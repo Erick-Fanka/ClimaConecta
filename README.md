@@ -53,6 +53,7 @@ O projeto utiliza **arquitetura serverless na AWS** para processar e visualizar 
 
 **Erick Fanka**  
 Ex-Competidor WorldSkills | Cloud Computing | Redes | Python | AWS 
+
 🔗 [LinkedIn](https://www.linkedin.com/in/erick-fanka)
 
 ---
