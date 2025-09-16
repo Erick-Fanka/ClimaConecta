@@ -1,6 +1,6 @@
 # 🔒 Política de Segurança
 
-Este documento detalha as políticas de segurança e as melhores práticas adotadas nos projetos de **Cloud Computing** desenvolvidos para a competição **WorldSkills**.  
+Este documento detalha as políticas de segurança e as melhores práticas adotadas nos projetos de **Cloud Computing**.  
 
 Nosso compromisso é com a construção de **infraestruturas seguras, robustas e eficientes**.
 
